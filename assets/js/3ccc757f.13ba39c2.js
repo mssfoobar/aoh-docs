@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[566],{71023:e=>{e.exports=JSON.parse('{"title":"API","description":"How to configure AgilRad 2.0 Web for excellence.","slug":"/category/api","permalink":"/aoh-docs/docs/category/api","navigation":{"next":{"title":"Dashboarding","permalink":"/aoh-docs/docs/web/api/dashboard"}}}')}}]);

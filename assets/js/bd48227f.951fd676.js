@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[8016],{34388:e=>{e.exports=JSON.parse('{"permalink":"/aoh-docs/releases/tags/pragver","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"AGIL Ops Hub Releases"}')}}]);

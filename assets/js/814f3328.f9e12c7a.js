@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"0.1.0.0","permalink":"/aoh-docs/releases/release-0.1.0.0"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[812],{2904:e=>{e.exports=JSON.parse('{"label":"release","permalink":"/aoh-docs/releases/tags/release","allTagsPath":"/aoh-docs/releases/tags","count":2}')}}]);

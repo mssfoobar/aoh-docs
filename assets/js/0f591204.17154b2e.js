@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[6553],{24553:a=>{a.exports=JSON.parse('{"label":"pragmatic versioning","permalink":"/aoh-docs/releases/tags/pragmatic-versioning","allTagsPath":"/aoh-docs/releases/tags","count":1}')}}]);

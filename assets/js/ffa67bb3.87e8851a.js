@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[3569],{22773:o=>{o.exports=JSON.parse('{"title":"UCS Room Mangement API (v1)","slug":"/ucs/api/v1","permalink":"/aoh-docs/docs/ucs/api/v1","navigation":{"next":{"title":"Introduction","permalink":"/aoh-docs/docs/openapi/ucs/v1/room-management"}}}')}}]);

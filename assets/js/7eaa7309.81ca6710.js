@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaoh_documentation=self.webpackChunkaoh_documentation||[]).push([[8278],{3319:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/aoh-docs/releases","page":1,"postsPerPage":5,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"AGIL Ops Hub Releases"}}')}}]);
